@@ -1,6 +1,7 @@
 name: Registration - Module 1
 description: Register for the HEMI ATOMIC Workshop, Module 1
 title: "[Registration Module 1]"
+labels: ["Registration: Module 1"]
 assignees:
   - ajsierakowski
 body:
