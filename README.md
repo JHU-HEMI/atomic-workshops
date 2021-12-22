@@ -72,3 +72,7 @@ Mondays 1:00 pm to 4:00 pm
 * **Week 2:** 2022/04/04
 * **Week 3:** 2022/04/11
 * **Week 4:** 2022/04/18
+
+## Registration
+
+Register for **Module 1** by completing [this form](https://github.com/JHU-HEMI/atomic-workshops/issues/new?assignees=ajsierakowski&labels=&template=registration-module-1.yaml&title=%5BRegistration+Module+1%5D).
