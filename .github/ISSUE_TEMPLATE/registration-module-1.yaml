@@ -1,0 +1,57 @@
+name: Registration - Module 1
+description: Register for the HEMI ATOMIC Workshop, Module 1
+title: "[Registration Module 1]"
+assignees:
+  - ajsierakowski
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit this form to register for the HEMI ATOMIC Workshop, Module 1.
+  - type: input
+    id: name_first
+    attributes:
+      label: First name
+    validations:
+      required: true
+  - type: input
+    id: name_last
+    attributes:
+      label: Last name
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: University role
+      multiple: false
+      options:
+        - Undergraduate
+        - Grad student
+        - Postdoc
+        - Staff
+        - Faculty
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: principal_investigator
+    attributes:
+      label: Principal investigator
+      description: Who is the principal investigator that you work with?
+    validations:
+      required: true
+  - type: checkboxes
+    id: hemi_affiliate
+    attributes:
+      label: HEMI affiliation
+      options:
+        - label: I affirm that I am affiliated with the Hopkins Extreme Materials Institute
+          required: true
