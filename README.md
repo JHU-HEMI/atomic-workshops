@@ -7,13 +7,13 @@ The HEMI Advanced Training On Methods In Computing (ATOMIC) Workshops will guide
 * Requires no outside effort
 * Culminates in a HEMI ATOMIC Certification
 
-# HEMI ATOMIC Certification
+## HEMI ATOMIC Certification
 
 Obtain a HEMI ATOMIC Certification for each module by attending all four weeks and completing the in-session deliverables.
 
-# Modules
+## Modules
 
-## Module 1: Computing Basics
+### Module 1: Computing Basics
 
 Build a working understanding of how to write computer code to solve general problems in your work.
 
@@ -22,7 +22,7 @@ Build a working understanding of how to write computer code to solve general pro
 * **Week 3:** Version control (Git) and data management basics
 * **Week 4:** Cumulative application project
 
-## Module 2: Research Computing Basics
+### Module 2: Research Computing Basics
 
 Build a working understanding of how to write computer code to solve general problems in your work.
 
@@ -31,7 +31,7 @@ Build a working understanding of how to write computer code to solve general pro
 * **Week 3:** Software compilation
 * **Week 4:** Cumulative application project
 
-## Module 3: Software Engineering Basics
+### Module 3: Software Engineering Basics
 
 Build a working understanding of how to write computer code to solve general problems in your work.
 
@@ -40,33 +40,33 @@ Build a working understanding of how to write computer code to solve general pro
 * **Week 3:** Software packaging
 * **Week 4:** Cumulative application project
 
-# Schedule
+## Schedule
 
-## Location
+### Location
 
 Homewood Campus, Malone G33/35 (and remotely as necessary)
 
-## Time
+### Time
 
 Mondays 1:00 pm to 4:00 pm
 
-## Dates
+### Dates
 
-### Module 1
+#### Module 1
 
 * **Week 1:** 2022/01/24
 * **Week 2:** 2022/01/31
 * **Week 3:** 2022/02/07
 * **Week 4:** 2022/02/14
 
-### Module 2
+#### Module 2
 
 * **Week 1:** 2022/02/21
 * **Week 2:** 2022/02/28
 * **Week 3:** 2022/03/07
 * **Week 4:** 2022/03/14
 
-### Module 3
+#### Module 3
 
 * **Week 1:** 2022/03/28
 * **Week 2:** 2022/04/04
