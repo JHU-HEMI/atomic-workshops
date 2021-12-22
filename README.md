@@ -42,8 +42,6 @@ Build a working understanding of how to write computer code to solve general pro
 
 # Schedule
 
-The first three modules will be offered during the Spring 2022 semester.
-
 ## Location
 
 Homewood Campus, Malone G33/35 (and remotely as necessary)
