@@ -13,7 +13,7 @@ Obtain a HEMI ATOMIC Certification for each module by attending all four weeks a
 
 ## Registration
 
-Register for **Module 1** by completing [this form](https://github.com/JHU-HEMI/atomic-workshops/issues/new?assignees=ajsierakowski&labels=&template=registration-module-1.yaml&title=%5BRegistration+Module+1%5D).
+Register to attend by completing [this form](https://forms.office.com/r/cYNfcnze3d).
 
 ## Modules
 
