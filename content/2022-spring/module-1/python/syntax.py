@@ -48,7 +48,7 @@ with open('syntax.py', 'r') as f:
   counter = 0
   for line in f:
     print('%d: %s' % (counter, line))
-    counter += 1 
+    counter += 1
   print('eof')
 
 # loops (for)
