@@ -28,16 +28,16 @@ Build a working understanding of how to write computer code to solve general pro
 
 ### Module 2: Research Computing Basics
 
-Build a working understanding of how to write computer code to solve general problems in your work.
+Learn how to deploy your software to remote compute systems.
 
-* **Week 1:** Introduction to Linux
-* **Week 2:** Python for research
+* **Week 1:** Working on a remote system
+* **Week 2:** Introduction to Linux
 * **Week 3:** Software compilation
 * **Week 4:** Cumulative application project
 
 ### Module 3: Software Engineering Basics
 
-Build a working understanding of how to write computer code to solve general problems in your work.
+Become familiar with approaches to sharing your computational work with your colleagues.
 
 * **Week 1:** Software development best practices
 * **Week 2:** Collaborative software development
