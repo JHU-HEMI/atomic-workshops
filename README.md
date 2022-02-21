@@ -22,7 +22,7 @@ Register to attend by completing [this form](https://forms.office.com/r/cYNfcnze
 Build a working understanding of how to write computer code to solve general problems in your work.
 
 * **Week 1:** Introduction to Python 1
-* **Week 2:** Introdcution to Python 2
+* **Week 2:** Introduction to Python 2
 * **Week 3:** Version control (Git) and data management basics
 * **Week 4:** Cumulative application project
 
